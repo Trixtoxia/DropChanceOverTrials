@@ -1,6 +1,7 @@
 #Python program to calculate the drop chance of an item over a certain number of attempts to get it to drop.
 #Author: Trixtoxia
 #Date: August 21, 2021
+#Copyright (C) 2021 Chad Wildrick
  
 #Assigning variables. First up, the chance of 1 attempt yielding item.
 chance_of_1 = float(input("What is the chance of the item dropping once, as a decimal? "))
