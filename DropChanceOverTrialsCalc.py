@@ -1,4 +1,4 @@
-#Python program to calculate the chance an item will drop over a certain number of attempts to get it to drop.
+#Python program to calculate the chance an item will drop within a certain number of attempts to get it to drop.
 #Author: Trixtoxia
 #Date: August 21, 2021
 #Copyright (C) 2021 Trixtoxia
