@@ -4,7 +4,7 @@
 #Copyright (C) 2021 Trixtoxia
  
 #Assigning variables. First up, the chance of 1 attempt yielding item.
-chance_of_1 = float(input("What is the chance of the item dropping once, as a decimal? "))
+chance_of_1 = float(input("What is the chance of the item dropping once, as a decimal? (Not a percentage) "))
 #Stupid proofing.
 while chance_of_1 > 1 or chance_of_1 < 0:
         print("Chance cannot be greater than 1, or less than zero! Try again.")
